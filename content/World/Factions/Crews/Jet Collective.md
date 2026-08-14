@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-08-05T13:48:38.460Z
-modified: 2026-08-14T17:39:10.795Z
+modified: 2026-08-14T20:15:17.349Z
 ---
 
-This diverse crew of Thennis Spartians likes to hold a mirror up to the scene, while at the same time nurturing it with community events, demos, and comps. They love slugblasting and try to fight for it, but are highly sensitive to perceived infractions. Once you’re in their bad books, it’s hard to do anything right.
+This diverse crew of [[Thennis Spar]]tians likes to hold a mirror up to the scene, while at the same time nurturing it with community events, demos, and comps. They love slugblasting and try to fight for it, but are highly sensitive to perceived infractions. Once you’re in their bad books, it’s hard to do anything right.
 
 (Jet used to stand for something, but no one in the crew remembers what)
 
