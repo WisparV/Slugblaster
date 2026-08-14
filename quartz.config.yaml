@@ -112,7 +112,7 @@ plugins:
     enabled: true
   - source: "@quartz-themes/core"
     options:
-      theme: "royal-velvet"
+      theme: "simply-colorful"
       mode: "both"
   - source: "@quartz-community/remove-draft"
     enabled: true
@@ -185,7 +185,7 @@ plugins:
       position: beforeBody
       priority: 10
   - source: "@quartz-community/content-meta"
-    enabled: true
+    enabled: false
     options:
     showReadingTime: false
     showComma: true
