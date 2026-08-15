@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-08-12T20:36:10.791Z
-modified: 2026-08-14T20:23:17.585Z
+modified: 2026-08-15T00:08:51.307Z
 ---
 
 Some people are different. They choose excellence. They choose precision. They choose something with classical music and confusing shots of austere architecture and European models in their advertisements. They choose Miper®, a design-focused tech company striving to change the world one innovation at a time.
-![[Pasted image 20260814152315.png]]
+![[z_Assets/MiperLogo.png]]
 
 ### NPCs
 
