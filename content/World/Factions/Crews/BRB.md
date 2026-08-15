@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-05T13:43:57.327Z
-modified: 2026-08-14T17:38:56.555Z
+modified: 2026-08-14T18:40:23.146Z
 ---
 
 The first team ever to burn through in a triple, BRB is a crew of competitive, backpack-wearing laserbladers, dominating leaderboards and beating every comp they enter into submission. People joke that BRB will be the ones to get slugblasting turned into an Olympic event.
@@ -23,4 +23,4 @@ Skill and innovation, talking shop, [[The Old Guard]], [[DARA]] (low-key, Rescue
 
 ### Dislikes
 
-FUST, [[Null Range]], sloppy runs, and gimmicky stunts
+[[FUST]], [[Null Range]], sloppy runs, and gimmicky stunts
