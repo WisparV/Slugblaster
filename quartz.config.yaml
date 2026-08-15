@@ -111,6 +111,7 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
+    enabled: true
     options:
       theme: "arcane"
       mode: "dark"
