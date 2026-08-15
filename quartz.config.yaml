@@ -112,7 +112,7 @@ plugins:
     enabled: true
   - source: "@quartz-themes/core"
     options:
-      theme: "simply-colorful"
+      theme: "default"
       mode: "both"
   - source: "@quartz-community/remove-draft"
     enabled: true
