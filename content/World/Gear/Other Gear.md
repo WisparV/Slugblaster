@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-12T20:44:54.514Z
-modified: 2026-08-14T17:39:14.217Z
+modified: 2026-08-31T21:39:51.654Z
 ---
 
 And of course, you have a whole bunch of other junk. A security cluster of slugblasting gear and teenage detritus that’s always with you, shoved into a knapsack alongside your homework, phone charger, chocolate bar wrapper collection, and that super cute nail polish you stole from the drugstore.
@@ -97,6 +97,38 @@ A 42 oz plastic cup of energy that never ends! PANIC claims the quantum lens in 
 ##### AUG BAND
 
 This headband (also available as a ballcap) projects fun photo filters onto your face. Express yourself with silly dog ears, make your skin look as smooth as single-use plastic, or attempt to pass yourself off as an entirely different, better person. **(Costs 1 lens, 1 disc.)**
+
+##### PARTICLE BOND TIGHTS
+
+A bit too cold out for a dress? A bit too hot out for pants? A bit too monstery out in general? Wiggle your stems into these classic nanomaterial everydays, and go live your best life, ya know? Nope scrapes, bites, and other lacerations for only 1 trouble. **(Costs 1 lens, 1 coil.)**
+
+##### KNOCK-OFF SCRAM CAT® TEE
+
+If you look close it says “Scram Rat,” but that won’t stop this shirt from deflecting lasers just as well as the real thing for half the cost. Okay, almost as well as the real thing. Fine, 50% as well. I guess you get what you pay for, and you paid to get hit by twice as many lasers. You do you, man. Nope slams from lasers and other electromagnetic energy for only 1 trouble. **(Costs 2 gems.)**
+
+##### AWF BRACELET
+
+An Anti-Wet Field generator uses diamagnetics to repel water, something found plentifully in most living things. Keep slugs off your back, keep mud out of your eyes, and get a little personal space. Nope slime, tentacles, and mouths for only 1 trouble. **(Costs 2 coils.)**
+
+##### 3D-PRINTED ABLATINE
+
+The multi-layered carbon compounds in Ablatine are engineered to crumple, vaporize, melt, fragment, and shatter instead of the wearer’s precious, changing body. Avoid one slam from physical damage for free. Resets during your next In the Lab beat. **(Costs 1 lens, 1 disc.)**
+
+##### MIPER® ESCAPE BAG
+
+This single-use emergency device is a big hit with parents. When you would be seriously injured, this backpack instead expands and encloses you in an embarrassingly massive sphere of cushioning material and stable quarks that deposit you back in Null unharmed. **(Costs 1 coil, 1 disc.)**
+
+##### DURAWEAVE JACKET
+
+Your Duraweave jacket has a lifetime warranty for standard wear and tear, but literally nothing you’re doing in it qualifies as standard so don’t get ahead of yourself. Nope bruising, bludgeoning, and crushing for only 1 trouble. **(Costs 1 disc, 1 coil.)**
+
+##### LINK PATCH DUO
+
+Sew one onto your jacket and give the other to a friend. Arcane energy entangles your quanta, allowing you to swap places within the same universe and communicate telepathically (emoji only). If one of you peels back, the other does too, and removing either patch hurts you both. Set of two. **(Costs 1 coil, 1 disc, 1 gem.)**
+
+##### SLAM PATCH
+
+This iron-on patch absorbs a set amount of most types of energy, including kinetic energy. Avoid one slam from physical damage for free. Once used, the patch fades to greyscale, functionally inert but now valuable as a form of street cred. **(Costs 1 lens, 1 disc.)**
 
 ---
 
@@ -234,3 +266,11 @@ The Slugblaster-sized version of one of those tacky isoprene polymer hands that 
 ##### HARDENED CIRCUITRY
 
 Armored, EMP-resistant, over-engineered circuit boards and casings to help keep your gear all safe and toasty. Avoid one slam to your signature device. Resets in your next In the Lab beat. **(Costs 1 coil, 1 gem.)**
+
+##### INFINITE PIZZA HEAVY DUTY DELIVERY BAG™
+
+Essential for deliveries through rough terrain, hostile environments, and unstable physics. Internal gravity, inertia, and temp regulation ensures the pizza is delivered like it just came out of the oven! The inside can expand to hold multiple pizza boxes without changing the outside volume. _Note, more boxes still equals more mass/weight._ **(Costs 1 coil.)**
+
+##### PLATONIC PAPER PLATE
+
+Looks like a normal paper plate. Supremely absorbent, no matter how much oil and grease is thrown at it. Once you are done eating, don’t throw it away. Fold it up and stick it in your pocket. Next time you need a plate, unfold it and it looks like new! **(Costs 1 disc.)**
